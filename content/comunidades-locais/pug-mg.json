@@ -1,16 +1,16 @@
 {
     "links": [
         [
-            "Google Groups",
-            "https://groups.google.com/forum/#!forum/python-mg"
+            "Telegram",
+            "https://t.me/pythonmg"
         ],
         [
             "Github",
             "https://github.com/pythonmg"
         ],
         [
-            "Twitter",
-            "https://twitter.com/pythonMG"
+            "Instagram",
+            "https://www.instagram.com/python.mg"
         ],
         [
             "Youtube",
@@ -22,6 +22,6 @@
         ]
     ],
     "nome": "Grupo de usu\u00e1rios de Minas Gerais",
-    "imagem": "images/comunidades-locais/default.png",
+    "imagem": "images/comunidades-locais/pug-mg.png",
     "sigla": "Pug-MG"
 }
