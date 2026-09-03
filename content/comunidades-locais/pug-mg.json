@@ -1,16 +1,12 @@
 {
     "links": [
         [
-            "Site",
-            "http://http://pythonmg.com.br/"
-        ],
-        [
             "Google Groups",
             "https://groups.google.com/forum/#!forum/python-mg"
         ],
         [
             "Github",
-            "https://github.com/python-mg"
+            "https://github.com/pythonmg"
         ],
         [
             "Twitter",
@@ -22,7 +18,7 @@
         ],
         [
             "Meetup",
-            "http://www.meetup.com/pt/Belo-Horizonte-Python-User-Group/"
+            "https://www.meetup.com/pt-BR/pythonmg/"
         ]
     ],
     "nome": "Grupo de usu\u00e1rios de Minas Gerais",
